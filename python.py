@@ -1,5 +1,5 @@
-# This may only work on POSIX systems... #
-#                         - Austin Welsh #
+# This may only work on POSIX systems #
+#                      - Austin Welsh #
 
 import os
 while(1):
